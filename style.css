@@ -3,7 +3,7 @@
   }
   
   html {
-    background-color: rgb(156, 156, 151);
+    background-color: rgb(156, 156, 255);
   }
   
   section {
@@ -61,7 +61,7 @@
     height: 30%;
     top: 0;
     bottom: 0;
-    right: 0;
+    left: 0;
     
   }
   

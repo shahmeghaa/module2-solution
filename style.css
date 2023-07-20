@@ -27,31 +27,20 @@ span{
     left:0;
 
 }
-@media (min-width : 992 px){
-    div.first{
-        width: 33.33%;
-    }
-    div.secound{
-        width:33.33%;
-    }
-    div.third{
-        width: 33.33%;
-    }
 
-}
 @media (min-width:768px) and(max-width:991px){
-    div.first{
+    section.first{
         width: 50%;
     }
-    div.secound{
+    section.secound{
         width:50%;
     }
-    div.third{
+    section.third{
         width: 100%;
     }
 }
 @media (min-width:767px){
-    div {
+    section {
         width: 100%;
     }
 }

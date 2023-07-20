@@ -24,8 +24,8 @@ h1{
     padding-bottom: 5%;
 }
 p{
-    background-color: rgb(49, 48, 48);
-    text-align:center;
+    
+    text-align: center;
 }
 span{
     position: absolute;
@@ -37,6 +37,10 @@ span{
     left:0;
 
 }
+section > span {
+  background-color: rgb(109, 109, 109);
+}
+
 span p.heading{
     font-weight: bold;
 
@@ -44,7 +48,7 @@ span p.heading{
     section.first{
         width: 50%;
     }
-    section.secound{
+    section.second{
         width:50%;
     }
     section.third{
